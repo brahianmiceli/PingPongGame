@@ -4,8 +4,7 @@
 
 ###### Juego creado en Java para 2 Jugadores.
 
-![sBEuN](https://user-images.githubusercontent.com/92497107/201484653-e6ccb3d8-1434-4365-940b-ffd9dcefcfd4.png)
-
+![pingpong](https://user-images.githubusercontent.com/92497107/201490559-a7542695-bac7-4ac7-84a2-bc2f167b05ac.png)
 
 # Tecnologias Usadas:
 
